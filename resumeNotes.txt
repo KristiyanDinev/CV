@@ -1,0 +1,42 @@
+The most resent events -> then backwards to old events
+be simple with text. Use good fonts and colors
+
+Header:
+- Main information (name, location, job title, phone, email, links, image of me)
+
+- Summery of main experience
+
+Resume:
+- Job Title / Position
+
+(rev work experience)
+- Company Name / Location
+- Date of start - Date of end
+- Description
+
+(education) 
+- Program Name
+- School Name
+- Date of start - Date of end attended
+
+(optional for education)
+- awards (description, name, date of getting them)
+
+(skills)
+Hard Skills
+- IT skills and work experience with frameworks and languages
+
+Soft Skills
+- Some Empathy
+- Flexibility in working on a project
+- Time Managment
+- Teamwork
+- Problem Solving
+- Adaptivity to a new work style
+
+(additional skills)
+- English
+- volunteering experience
+- certificates
+- side projects
+- hobbies

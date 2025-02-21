@@ -8,7 +8,7 @@ The most resent events -> then backwards to old events
 be simple with text. Use good fonts and colors
 
 Take over the interview. Like "I can do this and that. I am happy with this and that, but I don't like this."
-TODO Learn: GraphQL, Kotlin
+TODO Learn: GraphQL, Kotlin, MySQL, Django
 
 Header:
 - Main information (name, location, job title, phone, email, links, image of me)

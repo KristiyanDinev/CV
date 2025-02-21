@@ -31,7 +31,12 @@
   --dl-radius-radius-buttonradius: 24px;
   --dl-space-space-oneandhalfunits: 24px;
 }
- 
+
+.link {
+  margin: var(--dl-space-space-unit);
+  cursor: pointer;
+}
+
 .button {
   color: var(--dl-color-theme-neutral-dark);
   display: inline-block;

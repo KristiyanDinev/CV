@@ -4,6 +4,13 @@ https://www.base64-image.de/
 https://www.flaticon.com/search?word=github
 https://icons8.com/icons/set/github
 
+
+
+Make an HTML website for your CV. Then host your website with NGROK or nginx or with some kind of webserver that serves static files. 
+Then I used an extention or a website: https://pikwy.com/, https://www.site-shot.com/ to make a screenshot of the whole website.
+Then I used that screenshot to convert it to a PDF file. That is it. From custom HTML to PDF or even image. 
+If you have an app and you want custom emojis or stickers or banners. You can use HTML can convert it to whatever you need.
+
 The most resent events -> then backwards to old events
 be simple with text. Use good fonts and colors
 

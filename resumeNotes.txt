@@ -10,6 +10,10 @@ Make an HTML website for your CV. Then host your website with NGROK or nginx or 
 Then I used an extention or a website: https://pikwy.com/, https://www.site-shot.com/ to make a screenshot of the whole website.
 Then I used that screenshot to convert it to a PDF file. That is it. From custom HTML to PDF or even image. 
 If you have an app and you want custom emojis or stickers or banners. You can use HTML can convert it to whatever you need.
+But like that links and coping text won't work. I think the best way is it to convert straight the HTML to PDF.
+Note that some custom fonts may not work.
+https://www.sejda.com/html-to-pdf
+may help.
 
 The most resent events -> then backwards to old events
 be simple with text. Use good fonts and colors

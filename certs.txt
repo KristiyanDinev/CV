@@ -1,0 +1,67 @@
+Programming Hub
+https://programminghub.io/certificates
+
+Artifical Intelligence
+Credential ID: 1691239523927
+
+Blockchain basic
+Credential ID: 1668613519149
+
+Cloud Computing basic
+Credential ID: 1668543435758
+
+Computer Networks
+Credential ID: 1668535389027
+
+Cyber Security
+Credential ID: 1668539568862
+
+DevOps
+Credential ID: 1691333141108
+
+Docker
+Credential ID: 1691224596377
+
+Git
+Credential ID: 1691255512591
+
+Hacking Advanced
+Credential ID: 1668535471062
+
+Certified Ethical Hacker (CEH)
+Credential ID: 1668535638702
+
+Java Advanced
+Credential ID: 1668612327544
+
+Java basics
+Credential ID: 1668535763130
+
+Linux
+Credential ID: 1691251888192
+
+Machine Learning (ML)
+Credential ID: 1691225353279
+
+Networks
+Credential ID: 1668536819449
+
+Python 3
+Credential ID: 1668541053766
+
+Python Advanced
+Credential ID: 1668544765264
+
+Python basics
+Credential ID: 1668535880587
+
+Software Engineering
+Credential ID: 1691392462436
+
+HackerRank
+
+Introduction to Programming Using Python
+https://www.hackerrank.com/certificates/a8c10c57c3bf
+
+Java
+https://www.hackerrank.com/certificates/15272deb076a

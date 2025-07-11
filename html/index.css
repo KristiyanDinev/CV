@@ -2790,19 +2790,20 @@ body {
 
 .itstep-curriculum {
     max-width: 400px;
+    margin-top: 20px;
 }
 
 .itstep-curriculum-head {
     color:#5f9883;
     font-weight: bold;
-    font-size: 18px;
+    font-size: large;
 }
 
 
 .itstep-curriculum-item {
-    color:rgb(67, 67, 67);
+    color:rgb(0, 0, 0);
     font-weight: bold;
-    font-size: 16px;
+    font-size: large;
     margin-left: 20px;
 }
 
@@ -2816,4 +2817,11 @@ body {
     color: #5f9883;
     font-weight: bold;
     font-size: 16px;
+}
+
+.university {
+  margin-left: 16px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: large;
 }

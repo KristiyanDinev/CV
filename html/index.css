@@ -1087,7 +1087,6 @@ body {
   font-family: "Arial";
   font-weight: 700;
   margin-right: var(--dl-space-space-unit);
-  margin-bottom: var(--dl-space-space-unit);
 }
  
 .home-projects {
@@ -2790,7 +2789,7 @@ body {
 
 .itstep-curriculum {
     max-width: 400px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .itstep-curriculum-head {
